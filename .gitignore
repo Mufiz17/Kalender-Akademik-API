@@ -1,0 +1,12 @@
+node_modules
+.env
+bin
+migrations
+node_modules
+public
+seeders
+.env.local
+app.js
+package-lock.json
+package.json
+models
